@@ -12,7 +12,7 @@ public class Test : MonoBehaviour
         Debug.Log("HHHHHHHHHHHHHh");
         Debug.Log("HHHHHHHHHHHHHh");
         Debug.Log("HHHHHHHHHHHHHh");
- Debug.Log("HHㄴㅇ");
+        Debug.Log("HHㄴㅇ");
     }
 
     // Update is called once per frame
